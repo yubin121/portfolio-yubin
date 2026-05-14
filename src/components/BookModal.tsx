@@ -52,7 +52,7 @@ export function BookModal({
     'AI 통합': '#e879f9',
     마크다운: '#94a3b8',
     '태그 시스템': '#7dd3fc',
-    'CLI 툴': '#fcd34d',
+    SEO: '#fcd34d',
     오픈소스: '#34d399',
     '자동 배포': '#60a5fa',
   };
