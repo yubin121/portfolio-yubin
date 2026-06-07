@@ -171,7 +171,7 @@ export function Hero({ dark }: { dark: boolean }) {
               >
                 프로젝트 보기 →
               </MagBtn>
-              <MagBtn
+              {/* <MagBtn
                 onClick={() => {
                   const a = document.createElement('a');
                   a.href = '/resume.pdf';
@@ -210,7 +210,7 @@ export function Hero({ dark }: { dark: boolean }) {
                 }}
               >
                 포트폴리오 다운로드 ↓
-              </MagBtn>
+              </MagBtn> */}
             </div>
           </Fade>
         </div>
