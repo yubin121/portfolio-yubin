@@ -12,6 +12,7 @@ export const SKILLS: SkillGroup[] = [
       'React',
       'Next.js',
       'Supabase',
+      'prisma',
     ],
   },
   {
@@ -24,7 +25,9 @@ export const SKILLS: SkillGroup[] = [
       'Figma',
       'Git',
       'GitHub',
+      'Netlify',
       'Vercel',
+      'Docker',
       'Jira',
       'Slack',
       'Notion',
