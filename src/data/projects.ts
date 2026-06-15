@@ -245,6 +245,6 @@ export const PROJECTS: Project[] = [
       { label: '배포', pct: 100 },
     ],
     performance: [],
-    tags: ['개인 프로젝트', '반응형', 'AI', '자동 배포'],
+    tags: ['팀 프로젝트', '모바일', '실시간성', 'AI', '모노레포', '자동 배포'],
   },
 ];
