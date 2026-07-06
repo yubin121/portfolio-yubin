@@ -205,7 +205,7 @@ export const PROJECTS: Project[] = [
     title: 'Yummpi',
     description: {
       summary:
-        '모임 장소 선정부터 예약, 비용 정산까지 자동화하는 그룹 모임 운영 플랫폼',
+        '모임 장소 선정부터 비용 정산까지 자동화하는 그룹 모임 운영 플랫폼',
       sections: [
         {
           label: '서비스 소개',
@@ -230,8 +230,8 @@ export const PROJECTS: Project[] = [
       'Prisma',
       'Vercel',
     ],
-    githubUrl: '',
-    demoUrl: '',
+    githubUrl: 'https://github.com/ezen04/yummpi',
+    demoUrl: 'https://yummpi.com/',
     accent: '#fcd34d',
     spine: '#78350f',
     thickness: 43,
